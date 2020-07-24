@@ -8,7 +8,7 @@ _Programming introduction._
 
 ### Latex template 📋
 
-[latex/java-00-programming-introducion](https://github.com/rescobedoq/java-00-programming-introducion/latex/java-00-programming-introduction.tex)
+[java-00-programming-introduction.tex](https://github.com/rescobedoq/java-00-programming-introduction/blob/master/latex/java-00-programming-introduction.tex)
 
 ```
 java-00-programming-introduction.tex
