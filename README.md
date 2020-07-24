@@ -6,6 +6,7 @@ _Initial presentation of the course Programming Fundamentals 1. For the model cl
 
 _Programming introduction._
 
+
 ### Latex template 📋
 
 [java-00-programming-introduction.tex](https://github.com/rescobedoq/java-00-programming-introduction/blob/master/latex/java-00-programming-introduction.tex)
@@ -14,6 +15,12 @@ _Programming introduction._
 java-00-programming-introduction.tex
 ```
 
+### PDF presentation 📋
+
+[java-00-programming-introduction.pdf](https://github.com/rescobedoq/java-00-programming-introduction/blob/master/latex/java-00-programming-introduction.pdf)
+
+```
+java-00-programming-introduction.pdf
 
 ## Authors ✒️
 
