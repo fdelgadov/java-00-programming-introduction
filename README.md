@@ -46,7 +46,7 @@ Course.java
 
 ### Videos 📋
 
-[![Programming introduction](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=FZPvrEd0yOU "Programming introduction")
+[![Programming introduction](https://github.com/rescobedoq/java-00-programming-introduction/blob/master/java-00-programming-introduction-first.png)](https://www.youtube.com/watch?v=FZPvrEd0yOU "Programming introduction")
 
 
 
