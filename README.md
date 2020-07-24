@@ -21,6 +21,30 @@ java-00-programming-introduction.tex
 
 ```
 java-00-programming-introduction.pdf
+```
+
+### Basic examples 📋
+
+[HelloWorld.java](https://github.com/rescobedoq/java-00-programming-introduction/blob/master/basic-examples/HelloWorld.java)
+
+```
+HelloWorld.java
+```
+[Overflow.java](https://github.com/rescobedoq/java-00-programming-introduction/blob/master/basic-examples/Overflow.java)
+
+```
+Overflow.java
+```
+
+### Advanced examples 📋
+
+[Course.java](https://github.com/rescobedoq/java-00-programming-introduction/blob/master/advanced-examples/Course.java)
+
+```
+Course.java
+```
+
+
 
 ## Authors ✒️
 
