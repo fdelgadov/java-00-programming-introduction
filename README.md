@@ -6,15 +6,12 @@ _Initial presentation of the course Programming Fundamentals 1. For the model cl
 
 _Programming introduction._
 
-### latex 📋
-
-_Latex template_
+### Latex template 📋
 
 ```
-latex/java-00-programming-introducion
+[latex/java-00-programming-introducion](latex/java-00-programming-introducion)
 ```
 
-Mira **Deployment** para conocer como desplegar el proyecto.
 
 ## Authors ✒️
 
