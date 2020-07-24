@@ -9,7 +9,7 @@ _Programming introduction._
 ### Latex template 📋
 
 ```
-[latex/java-00-programming-introducion](latex/java-00-programming-introducion)
+[latex/java-00-programming-introducion](https://github.com/rescobedoq/latex/java-00-programming-introducion/latex/java-00-programming-introduction.tex)
 ```
 
 
